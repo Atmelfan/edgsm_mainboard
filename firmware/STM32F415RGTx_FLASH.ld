@@ -1,0 +1,1 @@
+/home/atmelfan/documents/edgsm/ed_goes_robotsm/mainboard/firmware/HAL/STM32F415RGTx_FLASH.ld
