@@ -1,0 +1,68 @@
+*************************************************************
+FileName = mainboard.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\matrix\matrix
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\steps\pcb\profile
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\symbols\rect39.3701x35.4331_225\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\symbols\s25.1969_225\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\symbols\rect23.622x21.6535_135\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\symbols\s25.1969_315\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\symbols\s25.1969_135\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\symbols\oval11.811x70.8661_135\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\symbols\oval11.811x70.8661_225\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\symbols\rect47.3701x43.4331_225\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\symbols\s33.1969_225\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\symbols\rect31.622x29.6535_135\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\symbols\s33.1969_315\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\symbols\s33.1969_135\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\symbols\oval19.811x78.8661_135\features
+
+Generated File : C:\Users\gustav\Documents\GitHub\ed_goes_robotsm\mainboard\Project Outputs for mainboard\odb\symbols\oval19.811x78.8661_225\features
+
